@@ -5,5 +5,5 @@ import tailwindcss from "tailwindcss"
 
 export default defineConfig({
   plugins: [react(), tailwindcss("./tailwind.config.cjs")],
-  base: "/finances-company-lading-page",
+  base: "/finances-company-landing-page",
 })
